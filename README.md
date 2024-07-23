@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammed-Haaris
-- 👀 I’m interested in web development full stacker
+- 👀 I’m interested in web development full stack developer
 - 🌱 I’m currently learning full stack development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
