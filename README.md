@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mohammed-Haaris
-- 👀 I’m interested in web development full stack developer
+- 👀 I’m interested in MERN stack developer
 - 🌱 I’m currently learning full stack development.
 
 <!---
