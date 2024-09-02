@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Mohammed Haaris</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-- 🌱 I’m currently learning **Full stack development**
+🌱 I’m currently learning **Full stack development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Mohammed-Haaris](https://github.com/Mohammed-Haaris)
+👨‍💻 All of my projects are available at [https://github.com/Mohammed-Haaris](https://github.com/Mohammed-Haaris)
 
-- 📫 How to reach me **smhhaaris2020@gmail.comn**
+📫 How to reach me **smhhaaris2020@gmail.comn**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
