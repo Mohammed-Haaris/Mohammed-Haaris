@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammed Haaris</h1>
-<h3 align="center">A passionate Front End developer from India</h3>
+<h3 align="center">A passionate MERN STACK DEVELOPER from India</h3>
 
-🌱 I’m currently learning **Full stack development**
+🌱 I’m a passionate **MERN STACK Developer**
 
 👨‍💻 All of my projects are available at [https://github.com/Mohammed-Haaris](https://github.com/Mohammed-Haaris)
 
